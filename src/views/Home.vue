@@ -1,5 +1,5 @@
 <template>
-  <div>home组件
+  <div>
    <el-button type="info" @click="toggleLogin">退出</el-button>
   </div>
 </template>
